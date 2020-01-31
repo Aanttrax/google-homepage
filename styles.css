@@ -14,7 +14,7 @@ ul {
 footer ul {
     overflow: hidden;
     background-color: #f2f2f2;
-    margin-top: 364px;
+    margin-top: 350px;
     bottom: 0px;
     left: 0px;
     right: 0px;
@@ -55,6 +55,8 @@ img {
 
 .sombreado:hover {
     color: black;
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
 }
 .buscador {
     
